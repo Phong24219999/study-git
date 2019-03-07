@@ -1,0 +1,5 @@
+git status -- kiem tra file moi
+git add ten-file -- them file vao de commit
+git commit ten-file -m 'them loi nhan' -- commit file
+
+git checkout -- <ten-file> ==> xoa bo noi dung vua them vao sau khi git status
