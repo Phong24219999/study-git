@@ -1,5 +1,1 @@
 Lan dau de commit
-
-them dong hai
-them dong ba
---> ti nua xoa bang revert
