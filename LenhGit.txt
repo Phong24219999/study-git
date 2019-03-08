@@ -3,4 +3,11 @@ git add ten-file -- them file vao de commit
 git commit ten-file -m 'them loi nhan' -- commit file
 
 git checkout -- <ten-file> ==>xoa bo noi dung vua thay doi trong file
-git reset -- <ten-file> xoa bo khoi working dir
+git reset -- <ten-file> ==> xoa bo khoi working dir
+
+git branch ==> xem nhanh
+
+git checkout -b <ten-branch> ==> tao bracnch
+git checkout master ==> di chuyen den bracnch master
+
+git bracnch -D <ten-branch> ==> xoa branch
