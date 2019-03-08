@@ -25,3 +25,6 @@ git remote -v ==> hien cac res
 git push ==> khi da push 1 lan
 
 git push -u origin master ==> push lan dau
+
+git config --global credential.helper timeou "cache=<thoigian  theo giay>"
+==> luu tru thong tin login cua git vao ram theo khoang thoi gian
