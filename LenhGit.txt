@@ -13,3 +13,7 @@ git checkout master ==> di chuyen den bracnch master
 git bracnch -D <ten-branch> ==> xoa branch
 
 git reset --soft <ma-file> ==> bo tu file do tro len ra khoi nhanh
+
+git revert <ma cua commit> ==> tra ve noi dung file truoc khi commit file do
+
+.gitignore <tem ten file hoac tu muc> ==> khong add them vao git
