@@ -17,3 +17,11 @@ git reset --soft <ma-file> ==> bo tu file do tro len ra khoi nhanh
 git revert <ma cua commit> ==> tra ve noi dung file truoc khi commit file do
 
 .gitignore <tem ten file hoac tu muc> ==> khong add them vao git
+
+git remote add origin <Link-res>.gi ==> them vao res de lam viec
+
+git remote -v ==> hien cac res 
+
+git push ==> khi da push 1 lan
+
+git push -u origin master ==> push lan dau
