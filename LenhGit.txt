@@ -11,3 +11,5 @@ git checkout -b <ten-branch> ==> tao bracnch
 git checkout master ==> di chuyen den bracnch master
 
 git bracnch -D <ten-branch> ==> xoa branch
+
+git reset --soft <ma-file> ==> bo tu file do tro len ra khoi nhanh
